@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T07:58:09.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DGTyPfospnUplJ1P_QiB" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-01T08:04:07.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qK6afsPOKYqIJ3zaZeNK" version="21.3.2" type="github" pages="5">
   <diagram name="ESC_REQ" id="Ywe14RbW6P2eDKHMHFVZ">
     <mxGraphModel dx="1114" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -684,6 +684,27 @@
         </mxCell>
         <mxCell id="AUrCEERv314ROG-CGB4T-44" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#FF6392;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;direction=west;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="402.75" y="200" width="34.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-46" value="Monthly Release Envonment" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-48" value="Strategic Release&amp;nbsp; Environment" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-7" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-49" value="SIT/UAT-1" style="text;html=1;strokeColor=#FF6392;fillColor=#FFE45E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="15" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-50" value="SIT-3" style="text;html=1;strokeColor=#FF6392;fillColor=#FFE45E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-51" value="SIT/UAT-2" style="text;html=1;strokeColor=#FF6392;fillColor=#FFE45E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-52" value="DEV" style="text;html=1;strokeColor=#FF6392;fillColor=#FFE45E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUrCEERv314ROG-CGB4T-53" value="POC" style="text;html=1;strokeColor=#FF6392;fillColor=#FFE45E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
